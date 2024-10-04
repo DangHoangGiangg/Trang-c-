@@ -1,0 +1,32 @@
+.custom-font {
+  background-color: blue;
+  color: aliceblue;
+  font-weight: 400;
+  border-radius: 30px;
+}
+aside {
+  width: 50%;
+  border-color: beige;
+  padding-left: 0.5rem;
+  margin-left: 0.5rem;
+  float: right;
+  box-shadow: inset 5px 0 5px -5px #29627e;
+  font-style: italic;
+  color: #000507;
+}
+.rounded-image {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.rounded-logo {
+  width: 50px;
+  height: 50px;
+  border-radius: 500px;
+  border: 30px;
+  object-fit: cover;
+}
+.body-full {
+  background-image: url(/IMG/pic.jpg);
+}
